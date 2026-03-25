@@ -41,6 +41,10 @@ header {
   width: 300px;
 }
 
+.box h3 {
+    text-transform: capitalize;
+}
+
 button {
   background-color: #4CAF50;
   color: white;
